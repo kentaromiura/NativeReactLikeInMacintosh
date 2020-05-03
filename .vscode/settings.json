@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "quickdraw.h": "c",
+        "cstring": "cpp",
+        "cstdio": "c"
+    }
+}

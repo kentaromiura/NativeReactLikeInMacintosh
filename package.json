@@ -1,0 +1,13 @@
+{
+  "name": "NativeReactLikeMacintosh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cristian Carlesso <@kentaromiura>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/plugin-transform-classes": "^7.9.5",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4"
+  }
+}
