@@ -3,7 +3,7 @@ Macintosh fake-react native
 
 This is a porting of my afternoon experiment to the Macintosh platform
 
-It's based on the work I've done for Windows 3.11 for [this twitter thread](twitter.com/kentaromiura/status/1216742960408055809)
+It's based on the work I've done for Windows 3.11 for [this twitter thread](https://twitter.com/kentaromiura/status/1216742960408055809)
 
 
 Requirements:
